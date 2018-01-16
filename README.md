@@ -1,4 +1,4 @@
-# leafret_tp
+# TP Leafret
 
 ## Consignes :  
 Utiliser le HTML5 et le JavaScript ainsi que la bibliothèque Leafret afin de réaliser un système de tracking dynamique d'un utilisateur sur une map. 
